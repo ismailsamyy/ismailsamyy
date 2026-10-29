@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">A Cloud Solutions Architect and DevOps Engineer</h3>
+<h3 align="center">A DevOps Engineer</h3>
 
 - 🌱 I’m  **Cloud DevOps Engineer**
 
